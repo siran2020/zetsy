@@ -11,10 +11,41 @@ body {
 }
 
 .wrapper {
-	width: 960px;
+	width: 700px;
+	height: auto;
 	margin: 0 auto;
 	background: #fff;
 	padding: 0 45px 20px;
 }
+
+h1 {
+	font-size:40px;
+	font-family: Times;
+	color: rgb(138,152,149);
+	margin-top:20px;
+}
+
+h2 {
+	font-family: Times;
+	color: rgb(138,152,149);
+}
+
+p {
+	font-size:12px;
+}
+
+a {
+	text-decoration: none;
+	color: rgb(54,123,155);
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+img {
+	width:500px;
+}
+
 
 /* Write all remaining styles here */
